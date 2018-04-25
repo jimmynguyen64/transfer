@@ -1,0 +1,16 @@
+.first{
+    font: bold;
+}
+
+.second{
+    font-size: 24px;
+}
+
+.third{
+    line-height: 50px;
+}  
+
+h1, h2, h3, h4{
+    font-family: 'Gugi', cursive;
+}
+

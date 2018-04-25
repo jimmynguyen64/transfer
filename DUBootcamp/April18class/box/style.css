@@ -1,0 +1,16 @@
+.box-1{
+    position: relative;
+    height: 200px;
+    background-color: black;
+    border: 0px;
+    color: aliceblue;
+}
+    .box-2{
+    position: absolute;
+        bottom: 20px;
+        right: 200px;
+        height: 50px;
+        width: 100px;
+        background-color: beige;
+        color: black;  
+}
